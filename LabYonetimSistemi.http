@@ -1,0 +1,6 @@
+@LabyonetimSistemi_HostAddress = http://localhost:5141
+
+GET {{LabyonetimSistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
